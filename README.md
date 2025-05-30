@@ -126,7 +126,7 @@ button:hover {
 </head>
 <body>
     <div class="container">
-        <div class="login">
+        <div href="https://www.instagram.com/smpn12arutselatan?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" class="login">
             <form action="">
                 <h1>Login</h1>
                 <hr>
